@@ -15,4 +15,5 @@ disconnection detection, automatic connection, remote control of campus computer
 ![image](https://github.com/carmen520/auto-connect-compus-network/assets/52569696/fd579633-4ec9-469a-9f95-f705be5d54ce)
 
 我的请求方式为POST
+
 通常有两种请求方式，GET和POST
