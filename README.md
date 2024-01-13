@@ -166,6 +166,12 @@ d：在这个HTML代码中，你可以看到对应的元素名称。
 
 设置被控电脑断电后再次来电时自启动。
 
+惠普的电脑看以下教程：
+
+https://h30471.www3.hp.com/t5/tai-shi-ji-zhi-shi-ku/jie-jue-fang-an-hui-pu-dian-nao-ru-he-she-zhi-tong-dian-zi-dong-kai-ji/ta-p/1221447
+
+联想的电脑看以下教程：
+
 通电启动[链接](https://jingyan.baidu.com/article/c1a3101efb30129e646deb7b.html)
 
 
