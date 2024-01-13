@@ -26,8 +26,7 @@ disconnection detection, automatic connection, remote control of campus computer
 
 （2）通过查看**成功联网页面**的HTML代码，找到登录成功的“标志性”“元素”作为判断器
 
-
-      这里的思路有两条
+这里的思路有两条
 
 a：直接调出HTML后台，看代码中有哪些标志性元素  此思路代表了下文的方法1，对应auto_connect1.py代码的内容
 
