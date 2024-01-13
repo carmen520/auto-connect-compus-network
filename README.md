@@ -123,7 +123,8 @@ d：在这个HTML代码中，你可以看到对应的元素名称。
 
    驱动下载[地址](https://developer.microsoft.com/en-us/microsoft-edge/)
 
-## 5.修改`login.py`
+## 5.修改`auto_connect1.py`或者`auto_connect2.py`
+
 
 1. 修改校园网账号、密码。
 2. 其他学校需要修改判断器，DMU不需要修改
