@@ -174,10 +174,19 @@ https://h30471.www3.hp.com/t5/tai-shi-ji-zhi-shi-ku/jie-jue-fang-an-hui-pu-dian-
 
 通电启动[链接](https://jingyan.baidu.com/article/c1a3101efb30129e646deb7b.html)
 
+## 三、测试结果
 
+开机自动联网 get！
 
-# 三、合作者
+断电，来电后，电脑自启动 get！
+
+来电后，电脑自启动+自动联网 get！
+
+很完美～
+
+# 四、合作者
 感谢实验室的刘星师弟分享的auto_connect2.py文件的源码，基于他的思路和框架，做了微调和补充了auto_connect1.py代码
+
 感谢https://zhuanlan.zhihu.com/p/370801224 这位作者的分享
 
 
